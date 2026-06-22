@@ -1,0 +1,15 @@
+{
+  "venvPath": ".",
+  "venv": "venv",
+  "extraPaths": ["."],
+  "include": [
+    "apps",
+    "config",
+    "scheduler",
+    "services"
+  ],
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Windows",
+  "reportMissingImports": "warning",
+  "reportMissingModuleSource": "none"
+}
